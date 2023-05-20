@@ -1,0 +1,7 @@
+{
+    "uuid": "ProxySwitcherPanel@wang.com",
+    "name": "Proxy Switcher Panel",
+    "description": "Switches between the system proxy settings profiles defined in Network Settings.",
+    "shell-version": ["3.36", "3.38", "40", "41", "42"],
+    "url": "https://github.com/tomflannaghan/proxy-switcher"
+}
