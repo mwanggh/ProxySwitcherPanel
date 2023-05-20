@@ -3,6 +3,8 @@ proxy-switcher-panel
 
 This is a small change to tomflannaghan's proxy-switcher (https://github.com/tomflannaghan/proxy-switcher). The proxy mode toggle list has been moved from quick settings to the top panel.
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 I recommend using the gnome extensions site but this is not always up to date. To get the latest version, do
